@@ -1,0 +1,10 @@
+{
+  "jamfpro_script": false,
+  "jamfpro_category": false,
+  "jamfpro_policy": true,
+  "jamfpro_macos_configuration_profile_plist": false,
+  "jamfpro_static_computer_group": false,
+  "jamfpro_smart_computer_group": false,
+  "jamfpro_advanced_computer_search": false,
+  "jamfpro_computer_extension_attribute": false
+}
